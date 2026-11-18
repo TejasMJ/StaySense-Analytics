@@ -1,0 +1,39 @@
+# Virtual environments
+.venv/
+venv/
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Model files
+models/*.pkl
+models/*.joblib
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+logs/
+temp/
+tmp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
