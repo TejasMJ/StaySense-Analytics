@@ -1,0 +1,1079 @@
+Model,Fold,Forecast_Step,Actual,Predicted
+Naive,1,1,71,184.0
+Naive,1,2,107,184.0
+Naive,1,3,96,184.0
+Naive,1,4,71,184.0
+Naive,1,5,98,184.0
+Naive,1,6,93,184.0
+Naive,1,7,71,184.0
+Seasonal Naive,1,1,71,75.0
+Seasonal Naive,1,2,107,78.0
+Seasonal Naive,1,3,96,71.0
+Seasonal Naive,1,4,71,67.0
+Seasonal Naive,1,5,98,93.0
+Seasonal Naive,1,6,93,52.0
+Seasonal Naive,1,7,71,184.0
+Historical Moving Average,1,1,71,88.57142857142857
+Historical Moving Average,1,2,107,88.57142857142857
+Historical Moving Average,1,3,96,88.57142857142857
+Historical Moving Average,1,4,71,88.57142857142857
+Historical Moving Average,1,5,98,88.57142857142857
+Historical Moving Average,1,6,93,88.57142857142857
+Historical Moving Average,1,7,71,88.57142857142857
+Naive,2,1,68,71.0
+Naive,2,2,116,71.0
+Naive,2,3,80,71.0
+Naive,2,4,119,71.0
+Naive,2,5,92,71.0
+Naive,2,6,90,71.0
+Naive,2,7,99,71.0
+Seasonal Naive,2,1,68,71.0
+Seasonal Naive,2,2,116,107.0
+Seasonal Naive,2,3,80,96.0
+Seasonal Naive,2,4,119,71.0
+Seasonal Naive,2,5,92,98.0
+Seasonal Naive,2,6,90,93.0
+Seasonal Naive,2,7,99,71.0
+Historical Moving Average,2,1,68,86.71428571428571
+Historical Moving Average,2,2,116,86.71428571428571
+Historical Moving Average,2,3,80,86.71428571428571
+Historical Moving Average,2,4,119,86.71428571428571
+Historical Moving Average,2,5,92,86.71428571428571
+Historical Moving Average,2,6,90,86.71428571428571
+Historical Moving Average,2,7,99,86.71428571428571
+Naive,3,1,80,99.0
+Naive,3,2,126,99.0
+Naive,3,3,92,99.0
+Naive,3,4,101,99.0
+Naive,3,5,86,99.0
+Naive,3,6,65,99.0
+Naive,3,7,86,99.0
+Seasonal Naive,3,1,80,68.0
+Seasonal Naive,3,2,126,116.0
+Seasonal Naive,3,3,92,80.0
+Seasonal Naive,3,4,101,119.0
+Seasonal Naive,3,5,86,92.0
+Seasonal Naive,3,6,65,90.0
+Seasonal Naive,3,7,86,99.0
+Historical Moving Average,3,1,80,94.85714285714286
+Historical Moving Average,3,2,126,94.85714285714286
+Historical Moving Average,3,3,92,94.85714285714286
+Historical Moving Average,3,4,101,94.85714285714286
+Historical Moving Average,3,5,86,94.85714285714286
+Historical Moving Average,3,6,65,94.85714285714286
+Historical Moving Average,3,7,86,94.85714285714286
+Naive,4,1,96,86.0
+Naive,4,2,111,86.0
+Naive,4,3,77,86.0
+Naive,4,4,54,86.0
+Naive,4,5,118,86.0
+Naive,4,6,51,86.0
+Naive,4,7,88,86.0
+Seasonal Naive,4,1,96,80.0
+Seasonal Naive,4,2,111,126.0
+Seasonal Naive,4,3,77,92.0
+Seasonal Naive,4,4,54,101.0
+Seasonal Naive,4,5,118,86.0
+Seasonal Naive,4,6,51,65.0
+Seasonal Naive,4,7,88,86.0
+Historical Moving Average,4,1,96,90.85714285714286
+Historical Moving Average,4,2,111,90.85714285714286
+Historical Moving Average,4,3,77,90.85714285714286
+Historical Moving Average,4,4,54,90.85714285714286
+Historical Moving Average,4,5,118,90.85714285714286
+Historical Moving Average,4,6,51,90.85714285714286
+Historical Moving Average,4,7,88,90.85714285714286
+Naive,5,1,111,88.0
+Naive,5,2,75,88.0
+Naive,5,3,82,88.0
+Naive,5,4,57,88.0
+Naive,5,5,115,88.0
+Naive,5,6,98,88.0
+Naive,5,7,56,88.0
+Seasonal Naive,5,1,111,96.0
+Seasonal Naive,5,2,75,111.0
+Seasonal Naive,5,3,82,77.0
+Seasonal Naive,5,4,57,54.0
+Seasonal Naive,5,5,115,118.0
+Seasonal Naive,5,6,98,51.0
+Seasonal Naive,5,7,56,88.0
+Historical Moving Average,5,1,111,85.0
+Historical Moving Average,5,2,75,85.0
+Historical Moving Average,5,3,82,85.0
+Historical Moving Average,5,4,57,85.0
+Historical Moving Average,5,5,115,85.0
+Historical Moving Average,5,6,98,85.0
+Historical Moving Average,5,7,56,85.0
+Naive,6,1,69,56.0
+Naive,6,2,200,56.0
+Naive,6,3,42,56.0
+Naive,6,4,64,56.0
+Naive,6,5,75,56.0
+Naive,6,6,117,56.0
+Naive,6,7,59,56.0
+Seasonal Naive,6,1,69,111.0
+Seasonal Naive,6,2,200,75.0
+Seasonal Naive,6,3,42,82.0
+Seasonal Naive,6,4,64,57.0
+Seasonal Naive,6,5,75,115.0
+Seasonal Naive,6,6,117,98.0
+Seasonal Naive,6,7,59,56.0
+Historical Moving Average,6,1,69,84.85714285714286
+Historical Moving Average,6,2,200,84.85714285714286
+Historical Moving Average,6,3,42,84.85714285714286
+Historical Moving Average,6,4,64,84.85714285714286
+Historical Moving Average,6,5,75,84.85714285714286
+Historical Moving Average,6,6,117,84.85714285714286
+Historical Moving Average,6,7,59,84.85714285714286
+Naive,7,1,110,59.0
+Naive,7,2,140,59.0
+Naive,7,3,132,59.0
+Naive,7,4,82,59.0
+Naive,7,5,62,59.0
+Naive,7,6,67,59.0
+Naive,7,7,52,59.0
+Seasonal Naive,7,1,110,69.0
+Seasonal Naive,7,2,140,200.0
+Seasonal Naive,7,3,132,42.0
+Seasonal Naive,7,4,82,64.0
+Seasonal Naive,7,5,62,75.0
+Seasonal Naive,7,6,67,117.0
+Seasonal Naive,7,7,52,59.0
+Historical Moving Average,7,1,110,89.42857142857143
+Historical Moving Average,7,2,140,89.42857142857143
+Historical Moving Average,7,3,132,89.42857142857143
+Historical Moving Average,7,4,82,89.42857142857143
+Historical Moving Average,7,5,62,89.42857142857143
+Historical Moving Average,7,6,67,89.42857142857143
+Historical Moving Average,7,7,52,89.42857142857143
+Naive,8,1,38,52.0
+Naive,8,2,54,52.0
+Naive,8,3,36,52.0
+Naive,8,4,108,52.0
+Naive,8,5,72,52.0
+Naive,8,6,114,52.0
+Naive,8,7,60,52.0
+Seasonal Naive,8,1,38,110.0
+Seasonal Naive,8,2,54,140.0
+Seasonal Naive,8,3,36,132.0
+Seasonal Naive,8,4,108,82.0
+Seasonal Naive,8,5,72,62.0
+Seasonal Naive,8,6,114,67.0
+Seasonal Naive,8,7,60,52.0
+Historical Moving Average,8,1,38,92.14285714285714
+Historical Moving Average,8,2,54,92.14285714285714
+Historical Moving Average,8,3,36,92.14285714285714
+Historical Moving Average,8,4,108,92.14285714285714
+Historical Moving Average,8,5,72,92.14285714285714
+Historical Moving Average,8,6,114,92.14285714285714
+Historical Moving Average,8,7,60,92.14285714285714
+Naive,9,1,155,60.0
+Naive,9,2,112,60.0
+Naive,9,3,75,60.0
+Naive,9,4,40,60.0
+Naive,9,5,168,60.0
+Naive,9,6,101,60.0
+Naive,9,7,156,60.0
+Seasonal Naive,9,1,155,38.0
+Seasonal Naive,9,2,112,54.0
+Seasonal Naive,9,3,75,36.0
+Seasonal Naive,9,4,40,108.0
+Seasonal Naive,9,5,168,72.0
+Seasonal Naive,9,6,101,114.0
+Seasonal Naive,9,7,156,60.0
+Historical Moving Average,9,1,155,68.85714285714286
+Historical Moving Average,9,2,112,68.85714285714286
+Historical Moving Average,9,3,75,68.85714285714286
+Historical Moving Average,9,4,40,68.85714285714286
+Historical Moving Average,9,5,168,68.85714285714286
+Historical Moving Average,9,6,101,68.85714285714286
+Historical Moving Average,9,7,156,68.85714285714286
+Naive,10,1,108,156.0
+Naive,10,2,119,156.0
+Naive,10,3,36,156.0
+Naive,10,4,137,156.0
+Naive,10,5,70,156.0
+Naive,10,6,175,156.0
+Naive,10,7,231,156.0
+Seasonal Naive,10,1,108,155.0
+Seasonal Naive,10,2,119,112.0
+Seasonal Naive,10,3,36,75.0
+Seasonal Naive,10,4,137,40.0
+Seasonal Naive,10,5,70,168.0
+Seasonal Naive,10,6,175,101.0
+Seasonal Naive,10,7,231,156.0
+Historical Moving Average,10,1,108,115.28571428571429
+Historical Moving Average,10,2,119,115.28571428571429
+Historical Moving Average,10,3,36,115.28571428571429
+Historical Moving Average,10,4,137,115.28571428571429
+Historical Moving Average,10,5,70,115.28571428571429
+Historical Moving Average,10,6,175,115.28571428571429
+Historical Moving Average,10,7,231,115.28571428571429
+Naive,11,1,77,231.0
+Naive,11,2,181,231.0
+Naive,11,3,61,231.0
+Naive,11,4,78,231.0
+Naive,11,5,144,231.0
+Naive,11,6,69,231.0
+Naive,11,7,60,231.0
+Seasonal Naive,11,1,77,108.0
+Seasonal Naive,11,2,181,119.0
+Seasonal Naive,11,3,61,36.0
+Seasonal Naive,11,4,78,137.0
+Seasonal Naive,11,5,144,70.0
+Seasonal Naive,11,6,69,175.0
+Seasonal Naive,11,7,60,231.0
+Historical Moving Average,11,1,77,125.14285714285714
+Historical Moving Average,11,2,181,125.14285714285714
+Historical Moving Average,11,3,61,125.14285714285714
+Historical Moving Average,11,4,78,125.14285714285714
+Historical Moving Average,11,5,144,125.14285714285714
+Historical Moving Average,11,6,69,125.14285714285714
+Historical Moving Average,11,7,60,125.14285714285714
+Naive,12,1,56,60.0
+Naive,12,2,213,60.0
+Naive,12,3,5,60.0
+Naive,12,4,160,60.0
+Naive,12,5,108,60.0
+Naive,12,6,93,60.0
+Naive,12,7,63,60.0
+Seasonal Naive,12,1,56,77.0
+Seasonal Naive,12,2,213,181.0
+Seasonal Naive,12,3,5,61.0
+Seasonal Naive,12,4,160,78.0
+Seasonal Naive,12,5,108,144.0
+Seasonal Naive,12,6,93,69.0
+Seasonal Naive,12,7,63,60.0
+Historical Moving Average,12,1,56,95.71428571428571
+Historical Moving Average,12,2,213,95.71428571428571
+Historical Moving Average,12,3,5,95.71428571428571
+Historical Moving Average,12,4,160,95.71428571428571
+Historical Moving Average,12,5,108,95.71428571428571
+Historical Moving Average,12,6,93,95.71428571428571
+Historical Moving Average,12,7,63,95.71428571428571
+Naive,13,1,92,63.0
+Naive,13,2,111,63.0
+Naive,13,3,76,63.0
+Naive,13,4,80,63.0
+Naive,13,5,77,63.0
+Naive,13,6,70,63.0
+Naive,13,7,133,63.0
+Seasonal Naive,13,1,92,56.0
+Seasonal Naive,13,2,111,213.0
+Seasonal Naive,13,3,76,5.0
+Seasonal Naive,13,4,80,160.0
+Seasonal Naive,13,5,77,108.0
+Seasonal Naive,13,6,70,93.0
+Seasonal Naive,13,7,133,63.0
+Historical Moving Average,13,1,92,99.71428571428571
+Historical Moving Average,13,2,111,99.71428571428571
+Historical Moving Average,13,3,76,99.71428571428571
+Historical Moving Average,13,4,80,99.71428571428571
+Historical Moving Average,13,5,77,99.71428571428571
+Historical Moving Average,13,6,70,99.71428571428571
+Historical Moving Average,13,7,133,99.71428571428571
+Naive,14,1,90,133.0
+Naive,14,2,90,133.0
+Naive,14,3,69,133.0
+Naive,14,4,65,133.0
+Naive,14,5,116,133.0
+Naive,14,6,75,133.0
+Naive,14,7,80,133.0
+Seasonal Naive,14,1,90,92.0
+Seasonal Naive,14,2,90,111.0
+Seasonal Naive,14,3,69,76.0
+Seasonal Naive,14,4,65,80.0
+Seasonal Naive,14,5,116,77.0
+Seasonal Naive,14,6,75,70.0
+Seasonal Naive,14,7,80,133.0
+Historical Moving Average,14,1,90,91.28571428571429
+Historical Moving Average,14,2,90,91.28571428571429
+Historical Moving Average,14,3,69,91.28571428571429
+Historical Moving Average,14,4,65,91.28571428571429
+Historical Moving Average,14,5,116,91.28571428571429
+Historical Moving Average,14,6,75,91.28571428571429
+Historical Moving Average,14,7,80,91.28571428571429
+Naive,15,1,73,80.0
+Naive,15,2,65,80.0
+Naive,15,3,81,80.0
+Naive,15,4,65,80.0
+Naive,15,5,109,80.0
+Naive,15,6,59,80.0
+Naive,15,7,73,80.0
+Seasonal Naive,15,1,73,90.0
+Seasonal Naive,15,2,65,90.0
+Seasonal Naive,15,3,81,69.0
+Seasonal Naive,15,4,65,65.0
+Seasonal Naive,15,5,109,116.0
+Seasonal Naive,15,6,59,75.0
+Seasonal Naive,15,7,73,80.0
+Historical Moving Average,15,1,73,83.57142857142857
+Historical Moving Average,15,2,65,83.57142857142857
+Historical Moving Average,15,3,81,83.57142857142857
+Historical Moving Average,15,4,65,83.57142857142857
+Historical Moving Average,15,5,109,83.57142857142857
+Historical Moving Average,15,6,59,83.57142857142857
+Historical Moving Average,15,7,73,83.57142857142857
+Naive,16,1,131,73.0
+Naive,16,2,45,73.0
+Naive,16,3,120,73.0
+Naive,16,4,70,73.0
+Naive,16,5,100,73.0
+Naive,16,6,67,73.0
+Naive,16,7,75,73.0
+Seasonal Naive,16,1,131,73.0
+Seasonal Naive,16,2,45,65.0
+Seasonal Naive,16,3,120,81.0
+Seasonal Naive,16,4,70,65.0
+Seasonal Naive,16,5,100,109.0
+Seasonal Naive,16,6,67,59.0
+Seasonal Naive,16,7,75,73.0
+Historical Moving Average,16,1,131,75.0
+Historical Moving Average,16,2,45,75.0
+Historical Moving Average,16,3,120,75.0
+Historical Moving Average,16,4,70,75.0
+Historical Moving Average,16,5,100,75.0
+Historical Moving Average,16,6,67,75.0
+Historical Moving Average,16,7,75,75.0
+Naive,17,1,57,75.0
+Naive,17,2,54,75.0
+Naive,17,3,124,75.0
+Naive,17,4,57,75.0
+Naive,17,5,114,75.0
+Naive,17,6,76,75.0
+Naive,17,7,93,75.0
+Seasonal Naive,17,1,57,131.0
+Seasonal Naive,17,2,54,45.0
+Seasonal Naive,17,3,124,120.0
+Seasonal Naive,17,4,57,70.0
+Seasonal Naive,17,5,114,100.0
+Seasonal Naive,17,6,76,67.0
+Seasonal Naive,17,7,93,75.0
+Historical Moving Average,17,1,57,86.85714285714286
+Historical Moving Average,17,2,54,86.85714285714286
+Historical Moving Average,17,3,124,86.85714285714286
+Historical Moving Average,17,4,57,86.85714285714286
+Historical Moving Average,17,5,114,86.85714285714286
+Historical Moving Average,17,6,76,86.85714285714286
+Historical Moving Average,17,7,93,86.85714285714286
+Naive,18,1,69,93.0
+Naive,18,2,78,93.0
+Naive,18,3,88,93.0
+Naive,18,4,78,93.0
+Naive,18,5,123,93.0
+Naive,18,6,78,93.0
+Naive,18,7,60,93.0
+Seasonal Naive,18,1,69,57.0
+Seasonal Naive,18,2,78,54.0
+Seasonal Naive,18,3,88,124.0
+Seasonal Naive,18,4,78,57.0
+Seasonal Naive,18,5,123,114.0
+Seasonal Naive,18,6,78,76.0
+Seasonal Naive,18,7,60,93.0
+Historical Moving Average,18,1,69,82.14285714285714
+Historical Moving Average,18,2,78,82.14285714285714
+Historical Moving Average,18,3,88,82.14285714285714
+Historical Moving Average,18,4,78,82.14285714285714
+Historical Moving Average,18,5,123,82.14285714285714
+Historical Moving Average,18,6,78,82.14285714285714
+Historical Moving Average,18,7,60,82.14285714285714
+Naive,19,1,69,60.0
+Naive,19,2,104,60.0
+Naive,19,3,115,60.0
+Naive,19,4,82,60.0
+Naive,19,5,88,60.0
+Naive,19,6,77,60.0
+Naive,19,7,93,60.0
+Seasonal Naive,19,1,69,69.0
+Seasonal Naive,19,2,104,78.0
+Seasonal Naive,19,3,115,88.0
+Seasonal Naive,19,4,82,78.0
+Seasonal Naive,19,5,88,123.0
+Seasonal Naive,19,6,77,78.0
+Seasonal Naive,19,7,93,60.0
+Historical Moving Average,19,1,69,82.0
+Historical Moving Average,19,2,104,82.0
+Historical Moving Average,19,3,115,82.0
+Historical Moving Average,19,4,82,82.0
+Historical Moving Average,19,5,88,82.0
+Historical Moving Average,19,6,77,82.0
+Historical Moving Average,19,7,93,82.0
+Naive,20,1,116,93.0
+Naive,20,2,116,93.0
+Naive,20,3,103,93.0
+Naive,20,4,102,93.0
+Naive,20,5,107,93.0
+Naive,20,6,71,93.0
+Naive,20,7,97,93.0
+Seasonal Naive,20,1,116,69.0
+Seasonal Naive,20,2,116,104.0
+Seasonal Naive,20,3,103,115.0
+Seasonal Naive,20,4,102,82.0
+Seasonal Naive,20,5,107,88.0
+Seasonal Naive,20,6,71,77.0
+Seasonal Naive,20,7,97,93.0
+Historical Moving Average,20,1,116,89.71428571428571
+Historical Moving Average,20,2,116,89.71428571428571
+Historical Moving Average,20,3,103,89.71428571428571
+Historical Moving Average,20,4,102,89.71428571428571
+Historical Moving Average,20,5,107,89.71428571428571
+Historical Moving Average,20,6,71,89.71428571428571
+Historical Moving Average,20,7,97,89.71428571428571
+Naive,21,1,83,97.0
+Naive,21,2,100,97.0
+Naive,21,3,61,97.0
+Naive,21,4,99,97.0
+Naive,21,5,93,97.0
+Naive,21,6,82,97.0
+Naive,21,7,84,97.0
+Seasonal Naive,21,1,83,116.0
+Seasonal Naive,21,2,100,116.0
+Seasonal Naive,21,3,61,103.0
+Seasonal Naive,21,4,99,102.0
+Seasonal Naive,21,5,93,107.0
+Seasonal Naive,21,6,82,71.0
+Seasonal Naive,21,7,84,97.0
+Historical Moving Average,21,1,83,101.71428571428571
+Historical Moving Average,21,2,100,101.71428571428571
+Historical Moving Average,21,3,61,101.71428571428571
+Historical Moving Average,21,4,99,101.71428571428571
+Historical Moving Average,21,5,93,101.71428571428571
+Historical Moving Average,21,6,82,101.71428571428571
+Historical Moving Average,21,7,84,101.71428571428571
+Naive,22,1,90,84.0
+Naive,22,2,98,84.0
+Naive,22,3,78,84.0
+Naive,22,4,84,84.0
+Naive,22,5,121,84.0
+Naive,22,6,67,84.0
+Naive,22,7,60,84.0
+Seasonal Naive,22,1,90,83.0
+Seasonal Naive,22,2,98,100.0
+Seasonal Naive,22,3,78,61.0
+Seasonal Naive,22,4,84,99.0
+Seasonal Naive,22,5,121,93.0
+Seasonal Naive,22,6,67,82.0
+Seasonal Naive,22,7,60,84.0
+Historical Moving Average,22,1,90,86.0
+Historical Moving Average,22,2,98,86.0
+Historical Moving Average,22,3,78,86.0
+Historical Moving Average,22,4,84,86.0
+Historical Moving Average,22,5,121,86.0
+Historical Moving Average,22,6,67,86.0
+Historical Moving Average,22,7,60,86.0
+Simple Exponential Smoothing,1,1,71,89.99475532064538
+Simple Exponential Smoothing,1,2,107,89.99475532064538
+Simple Exponential Smoothing,1,3,96,89.99475532064538
+Simple Exponential Smoothing,1,4,71,89.99475532064538
+Simple Exponential Smoothing,1,5,98,89.99475532064538
+Simple Exponential Smoothing,1,6,93,89.99475532064538
+Simple Exponential Smoothing,1,7,71,89.99475532064538
+Simple Exponential Smoothing,2,1,68,87.30303784436047
+Simple Exponential Smoothing,2,2,116,87.30303784436047
+Simple Exponential Smoothing,2,3,80,87.30303784436047
+Simple Exponential Smoothing,2,4,119,87.30303784436047
+Simple Exponential Smoothing,2,5,92,87.30303784436047
+Simple Exponential Smoothing,2,6,90,87.30303784436047
+Simple Exponential Smoothing,2,7,99,87.30303784436047
+Simple Exponential Smoothing,3,1,80,92.76853051532387
+Simple Exponential Smoothing,3,2,126,92.76853051532387
+Simple Exponential Smoothing,3,3,92,92.76853051532387
+Simple Exponential Smoothing,3,4,101,92.76853051532387
+Simple Exponential Smoothing,3,5,86,92.76853051532387
+Simple Exponential Smoothing,3,6,65,92.76853051532387
+Simple Exponential Smoothing,3,7,86,92.76853051532387
+Simple Exponential Smoothing,4,1,96,89.96715108974267
+Simple Exponential Smoothing,4,2,111,89.96715108974267
+Simple Exponential Smoothing,4,3,77,89.96715108974267
+Simple Exponential Smoothing,4,4,54,89.96715108974267
+Simple Exponential Smoothing,4,5,118,89.96715108974267
+Simple Exponential Smoothing,4,6,51,89.96715108974267
+Simple Exponential Smoothing,4,7,88,89.96715108974267
+Simple Exponential Smoothing,5,1,111,85.56302182211321
+Simple Exponential Smoothing,5,2,75,85.56302182211321
+Simple Exponential Smoothing,5,3,82,85.56302182211321
+Simple Exponential Smoothing,5,4,57,85.56302182211321
+Simple Exponential Smoothing,5,5,115,85.56302182211321
+Simple Exponential Smoothing,5,6,98,85.56302182211321
+Simple Exponential Smoothing,5,7,56,85.56302182211321
+Simple Exponential Smoothing,6,1,69,84.02364778854344
+Simple Exponential Smoothing,6,2,200,84.02364778854344
+Simple Exponential Smoothing,6,3,42,84.02364778854344
+Simple Exponential Smoothing,6,4,64,84.02364778854344
+Simple Exponential Smoothing,6,5,75,84.02364778854344
+Simple Exponential Smoothing,6,6,117,84.02364778854344
+Simple Exponential Smoothing,6,7,59,84.02364778854344
+Simple Exponential Smoothing,7,1,110,85.5855313419702
+Simple Exponential Smoothing,7,2,140,85.5855313419702
+Simple Exponential Smoothing,7,3,132,85.5855313419702
+Simple Exponential Smoothing,7,4,82,85.5855313419702
+Simple Exponential Smoothing,7,5,62,85.5855313419702
+Simple Exponential Smoothing,7,6,67,85.5855313419702
+Simple Exponential Smoothing,7,7,52,85.5855313419702
+Simple Exponential Smoothing,8,1,38,85.13515494933789
+Simple Exponential Smoothing,8,2,54,85.13515494933789
+Simple Exponential Smoothing,8,3,36,85.13515494933789
+Simple Exponential Smoothing,8,4,108,85.13515494933789
+Simple Exponential Smoothing,8,5,72,85.13515494933789
+Simple Exponential Smoothing,8,6,114,85.13515494933789
+Simple Exponential Smoothing,8,7,60,85.13515494933789
+Simple Exponential Smoothing,9,1,155,77.54422400800524
+Simple Exponential Smoothing,9,2,112,77.54422400800524
+Simple Exponential Smoothing,9,3,75,77.54422400800524
+Simple Exponential Smoothing,9,4,40,77.54422400800524
+Simple Exponential Smoothing,9,5,168,77.54422400800524
+Simple Exponential Smoothing,9,6,101,77.54422400800524
+Simple Exponential Smoothing,9,7,156,77.54422400800524
+Simple Exponential Smoothing,10,1,108,101.64561206601556
+Simple Exponential Smoothing,10,2,119,101.64561206601556
+Simple Exponential Smoothing,10,3,36,101.64561206601556
+Simple Exponential Smoothing,10,4,137,101.64561206601556
+Simple Exponential Smoothing,10,5,70,101.64561206601556
+Simple Exponential Smoothing,10,6,175,101.64561206601556
+Simple Exponential Smoothing,10,7,231,101.64561206601556
+Simple Exponential Smoothing,11,1,77,123.76654847347001
+Simple Exponential Smoothing,11,2,181,123.76654847347001
+Simple Exponential Smoothing,11,3,61,123.76654847347001
+Simple Exponential Smoothing,11,4,78,123.76654847347001
+Simple Exponential Smoothing,11,5,144,123.76654847347001
+Simple Exponential Smoothing,11,6,69,123.76654847347001
+Simple Exponential Smoothing,11,7,60,123.76654847347001
+Simple Exponential Smoothing,12,1,56,104.08012018451944
+Simple Exponential Smoothing,12,2,213,104.08012018451944
+Simple Exponential Smoothing,12,3,5,104.08012018451944
+Simple Exponential Smoothing,12,4,160,104.08012018451944
+Simple Exponential Smoothing,12,5,108,104.08012018451944
+Simple Exponential Smoothing,12,6,93,104.08012018451944
+Simple Exponential Smoothing,12,7,63,104.08012018451944
+Simple Exponential Smoothing,13,1,92,100.5121747715781
+Simple Exponential Smoothing,13,2,111,100.5121747715781
+Simple Exponential Smoothing,13,3,76,100.5121747715781
+Simple Exponential Smoothing,13,4,80,100.5121747715781
+Simple Exponential Smoothing,13,5,77,100.5121747715781
+Simple Exponential Smoothing,13,6,70,100.5121747715781
+Simple Exponential Smoothing,13,7,133,100.5121747715781
+Simple Exponential Smoothing,14,1,90,95.97614103115596
+Simple Exponential Smoothing,14,2,90,95.97614103115596
+Simple Exponential Smoothing,14,3,69,95.97614103115596
+Simple Exponential Smoothing,14,4,65,95.97614103115596
+Simple Exponential Smoothing,14,5,116,95.97614103115596
+Simple Exponential Smoothing,14,6,75,95.97614103115596
+Simple Exponential Smoothing,14,7,80,95.97614103115596
+Simple Exponential Smoothing,15,1,73,88.95340853661527
+Simple Exponential Smoothing,15,2,65,88.95340853661527
+Simple Exponential Smoothing,15,3,81,88.95340853661527
+Simple Exponential Smoothing,15,4,65,88.95340853661527
+Simple Exponential Smoothing,15,5,109,88.95340853661527
+Simple Exponential Smoothing,15,6,59,88.95340853661527
+Simple Exponential Smoothing,15,7,73,88.95340853661527
+Simple Exponential Smoothing,16,1,131,81.13655296333421
+Simple Exponential Smoothing,16,2,45,81.13655296333421
+Simple Exponential Smoothing,16,3,120,81.13655296333421
+Simple Exponential Smoothing,16,4,70,81.13655296333421
+Simple Exponential Smoothing,16,5,100,81.13655296333421
+Simple Exponential Smoothing,16,6,67,81.13655296333421
+Simple Exponential Smoothing,16,7,75,81.13655296333421
+Simple Exponential Smoothing,17,1,57,83.1260196500191
+Simple Exponential Smoothing,17,2,54,83.1260196500191
+Simple Exponential Smoothing,17,3,124,83.1260196500191
+Simple Exponential Smoothing,17,4,57,83.1260196500191
+Simple Exponential Smoothing,17,5,114,83.1260196500191
+Simple Exponential Smoothing,17,6,76,83.1260196500191
+Simple Exponential Smoothing,17,7,93,83.1260196500191
+Simple Exponential Smoothing,18,1,69,83.77047156753592
+Simple Exponential Smoothing,18,2,78,83.77047156753592
+Simple Exponential Smoothing,18,3,88,83.77047156753592
+Simple Exponential Smoothing,18,4,78,83.77047156753592
+Simple Exponential Smoothing,18,5,123,83.77047156753592
+Simple Exponential Smoothing,18,6,78,83.77047156753592
+Simple Exponential Smoothing,18,7,60,83.77047156753592
+Simple Exponential Smoothing,19,1,69,82.71479589103446
+Simple Exponential Smoothing,19,2,104,82.71479589103446
+Simple Exponential Smoothing,19,3,115,82.71479589103446
+Simple Exponential Smoothing,19,4,82,82.71479589103446
+Simple Exponential Smoothing,19,5,88,82.71479589103446
+Simple Exponential Smoothing,19,6,77,82.71479589103446
+Simple Exponential Smoothing,19,7,93,82.71479589103446
+Simple Exponential Smoothing,20,1,116,86.41836205387995
+Simple Exponential Smoothing,20,2,116,86.41836205387995
+Simple Exponential Smoothing,20,3,103,86.41836205387995
+Simple Exponential Smoothing,20,4,102,86.41836205387995
+Simple Exponential Smoothing,20,5,107,86.41836205387995
+Simple Exponential Smoothing,20,6,71,86.41836205387995
+Simple Exponential Smoothing,20,7,97,86.41836205387995
+Simple Exponential Smoothing,21,1,83,93.60144406594893
+Simple Exponential Smoothing,21,2,100,93.60144406594893
+Simple Exponential Smoothing,21,3,61,93.60144406594893
+Simple Exponential Smoothing,21,4,99,93.60144406594893
+Simple Exponential Smoothing,21,5,93,93.60144406594893
+Simple Exponential Smoothing,21,6,82,93.60144406594893
+Simple Exponential Smoothing,21,7,84,93.60144406594893
+Simple Exponential Smoothing,22,1,90,89.39230125221965
+Simple Exponential Smoothing,22,2,98,89.39230125221965
+Simple Exponential Smoothing,22,3,78,89.39230125221965
+Simple Exponential Smoothing,22,4,84,89.39230125221965
+Simple Exponential Smoothing,22,5,121,89.39230125221965
+Simple Exponential Smoothing,22,6,67,89.39230125221965
+Simple Exponential Smoothing,22,7,60,89.39230125221965
+Holt Linear Trend,1,1,71,90.10819203495747
+Holt Linear Trend,1,2,107,90.10819203495747
+Holt Linear Trend,1,3,96,90.10819203495747
+Holt Linear Trend,1,4,71,90.10819203495747
+Holt Linear Trend,1,5,98,90.10819203495747
+Holt Linear Trend,1,6,93,90.10819203495747
+Holt Linear Trend,1,7,71,90.10819203495747
+Holt Linear Trend,2,1,68,87.32047372644462
+Holt Linear Trend,2,2,116,87.32047372644462
+Holt Linear Trend,2,3,80,87.32047372644462
+Holt Linear Trend,2,4,119,87.32047372644462
+Holt Linear Trend,2,5,92,87.32047372644462
+Holt Linear Trend,2,6,90,87.32047372644462
+Holt Linear Trend,2,7,99,87.32047372644462
+Holt Linear Trend,3,1,80,92.83179422870298
+Holt Linear Trend,3,2,126,92.83179422870298
+Holt Linear Trend,3,3,92,92.83179422870298
+Holt Linear Trend,3,4,101,92.83179422870298
+Holt Linear Trend,3,5,86,92.83179422870298
+Holt Linear Trend,3,6,65,92.83179422870298
+Holt Linear Trend,3,7,86,92.83179422870298
+Holt Linear Trend,4,1,96,89.95009567889927
+Holt Linear Trend,4,2,111,89.95009567889927
+Holt Linear Trend,4,3,77,89.95009567889927
+Holt Linear Trend,4,4,54,89.95009567889927
+Holt Linear Trend,4,5,118,89.95009567889927
+Holt Linear Trend,4,6,51,89.95009567889927
+Holt Linear Trend,4,7,88,89.95009567889927
+Holt Linear Trend,5,1,111,85.51993610592626
+Holt Linear Trend,5,2,75,85.51993610592626
+Holt Linear Trend,5,3,82,85.51993610592626
+Holt Linear Trend,5,4,57,85.51993610592626
+Holt Linear Trend,5,5,115,85.51993610592626
+Holt Linear Trend,5,6,98,85.51993610592626
+Holt Linear Trend,5,7,56,85.51993610592626
+Holt Linear Trend,6,1,69,83.98661557870832
+Holt Linear Trend,6,2,200,83.98661557870832
+Holt Linear Trend,6,3,42,83.98661557870832
+Holt Linear Trend,6,4,64,83.98661557870832
+Holt Linear Trend,6,5,75,83.98661557870832
+Holt Linear Trend,6,6,117,83.98661557870832
+Holt Linear Trend,6,7,59,83.98661557870832
+Holt Linear Trend,7,1,110,85.55955185453756
+Holt Linear Trend,7,2,140,85.55955185453756
+Holt Linear Trend,7,3,132,85.55955185453756
+Holt Linear Trend,7,4,82,85.55955185453756
+Holt Linear Trend,7,5,62,85.55955185453756
+Holt Linear Trend,7,6,67,85.55955185453756
+Holt Linear Trend,7,7,52,85.55955185453756
+Holt Linear Trend,8,1,38,85.07158463024614
+Holt Linear Trend,8,2,54,85.07158463024614
+Holt Linear Trend,8,3,36,85.07158463024614
+Holt Linear Trend,8,4,108,85.07158463024614
+Holt Linear Trend,8,5,72,85.07158463024614
+Holt Linear Trend,8,6,114,85.07158463024614
+Holt Linear Trend,8,7,60,85.07158463024614
+Holt Linear Trend,9,1,155,77.47369415334616
+Holt Linear Trend,9,2,112,77.47369415334616
+Holt Linear Trend,9,3,75,77.47369415334616
+Holt Linear Trend,9,4,40,77.47369415334616
+Holt Linear Trend,9,5,168,77.47369415334616
+Holt Linear Trend,9,6,101,77.47369415334616
+Holt Linear Trend,9,7,156,77.47369415334616
+Holt Linear Trend,10,1,108,101.8126278823913
+Holt Linear Trend,10,2,119,101.8126278823913
+Holt Linear Trend,10,3,36,101.8126278823913
+Holt Linear Trend,10,4,137,101.8126278823913
+Holt Linear Trend,10,5,70,101.8126278823913
+Holt Linear Trend,10,6,175,101.8126278823913
+Holt Linear Trend,10,7,231,101.8126278823913
+Holt Linear Trend,11,1,77,124.00735325853
+Holt Linear Trend,11,2,181,124.00735325853
+Holt Linear Trend,11,3,61,124.00735325853
+Holt Linear Trend,11,4,78,124.00735325853
+Holt Linear Trend,11,5,144,124.00735325853
+Holt Linear Trend,11,6,69,124.00735325853
+Holt Linear Trend,11,7,60,124.00735325853
+Holt Linear Trend,12,1,56,104.05246690784888
+Holt Linear Trend,12,2,213,104.05246690784888
+Holt Linear Trend,12,3,5,104.05246690784888
+Holt Linear Trend,12,4,160,104.05246690784888
+Holt Linear Trend,12,5,108,104.05246690784888
+Holt Linear Trend,12,6,93,104.05246690784888
+Holt Linear Trend,12,7,63,104.05246690784888
+Holt Linear Trend,13,1,92,100.46292401923581
+Holt Linear Trend,13,2,111,100.46292401923581
+Holt Linear Trend,13,3,76,100.46292401923581
+Holt Linear Trend,13,4,80,100.46292401923581
+Holt Linear Trend,13,5,77,100.46292401923581
+Holt Linear Trend,13,6,70,100.46292401923581
+Holt Linear Trend,13,7,133,100.46292401923581
+Holt Linear Trend,14,1,90,95.92866815187047
+Holt Linear Trend,14,2,90,95.92866815187047
+Holt Linear Trend,14,3,69,95.92866815187047
+Holt Linear Trend,14,4,65,95.92866815187047
+Holt Linear Trend,14,5,116,95.92866815187047
+Holt Linear Trend,14,6,75,95.92866815187047
+Holt Linear Trend,14,7,80,95.92866815187047
+Holt Linear Trend,15,1,73,88.8809786925051
+Holt Linear Trend,15,2,65,88.8809786925051
+Holt Linear Trend,15,3,81,88.8809786925051
+Holt Linear Trend,15,4,65,88.8809786925051
+Holt Linear Trend,15,5,109,88.8809786925051
+Holt Linear Trend,15,6,59,88.8809786925051
+Holt Linear Trend,15,7,73,88.8809786925051
+Holt Linear Trend,16,1,131,81.0350150430377
+Holt Linear Trend,16,2,45,81.02730304627019
+Holt Linear Trend,16,3,120,81.02113344885618
+Holt Linear Trend,16,4,70,81.01619777092496
+Holt Linear Trend,16,5,100,81.01224922858
+Holt Linear Trend,16,6,67,81.00909039470402
+Holt Linear Trend,16,7,75,81.00656332760325
+Holt Linear Trend,17,1,57,83.02846180075821
+Holt Linear Trend,17,2,54,83.0166039793234
+Holt Linear Trend,17,3,124,83.00711772217556
+Holt Linear Trend,17,4,57,82.99952871645729
+Holt Linear Trend,17,5,114,82.99345751188268
+Holt Linear Trend,17,6,76,82.98860054822299
+Holt Linear Trend,17,7,93,82.98471497729523
+Holt Linear Trend,18,1,69,83.60740237916086
+Holt Linear Trend,18,2,78,83.62243772354417
+Holt Linear Trend,18,3,88,83.6344659990508
+Holt Linear Trend,18,4,78,83.64408861945611
+Holt Linear Trend,18,5,123,83.65178671578037
+Holt Linear Trend,18,6,78,83.65794519283978
+Holt Linear Trend,18,7,60,83.66287197448729
+Holt Linear Trend,19,1,69,82.7238892281519
+Holt Linear Trend,19,2,104,82.71408596719822
+Holt Linear Trend,19,3,115,82.70624335843527
+Holt Linear Trend,19,4,82,82.69996927142492
+Holt Linear Trend,19,5,88,82.69495000181664
+Holt Linear Trend,19,6,77,82.69093458613001
+Holt Linear Trend,19,7,93,82.6877222535807
+Holt Linear Trend,20,1,116,86.43518095820625
+Holt Linear Trend,20,2,116,86.45342708122296
+Holt Linear Trend,20,3,103,86.46802397963633
+Holt Linear Trend,20,4,102,86.47970149836702
+Holt Linear Trend,20,5,107,86.48904351335158
+Holt Linear Trend,20,6,71,86.49651712533922
+Holt Linear Trend,20,7,97,86.50249601492935
+Holt Linear Trend,21,1,83,93.78117636618023
+Holt Linear Trend,21,2,100,93.80385319500442
+Holt Linear Trend,21,3,61,93.82199465806377
+Holt Linear Trend,21,4,99,93.83650782851126
+Holt Linear Trend,21,5,93,93.84811836486924
+Holt Linear Trend,21,6,82,93.85740679395563
+Holt Linear Trend,21,7,84,93.86483753722474
+Holt Linear Trend,22,1,90,89.48987426535614
+Holt Linear Trend,22,2,98,89.47398349109498
+Holt Linear Trend,22,3,78,89.46127087168605
+Holt Linear Trend,22,4,84,89.45110077615891
+Holt Linear Trend,22,5,121,89.44296469973719
+Holt Linear Trend,22,6,67,89.43645583859983
+Holt Linear Trend,22,7,60,89.43124874968993
+Holt-Winters,1,1,71,93.36044996152289
+Holt-Winters,1,2,107,93.3734094448947
+Holt-Winters,1,3,96,113.63200644620483
+Holt-Winters,1,4,71,91.54277796555577
+Holt-Winters,1,5,98,84.03281655366173
+Holt-Winters,1,6,93,86.41107435906474
+Holt-Winters,1,7,71,89.5802542951935
+Holt-Winters,2,1,68,89.53015209936092
+Holt-Winters,2,2,116,90.4058619901727
+Holt-Winters,2,3,80,109.85036921692773
+Holt-Winters,2,4,119,87.73054958144775
+Holt-Winters,2,5,92,81.05841419125113
+Holt-Winters,2,6,90,83.25744194612209
+Holt-Winters,2,7,99,85.81710780641887
+Holt-Winters,3,1,80,94.41156076056362
+Holt-Winters,3,2,126,96.41162491156845
+Holt-Winters,3,3,92,114.54002787999215
+Holt-Winters,3,4,101,93.85180661935834
+Holt-Winters,3,5,86,86.67800777402445
+Holt-Winters,3,6,65,88.76753344040166
+Holt-Winters,3,7,86,91.45675383401094
+Holt-Winters,4,1,96,91.06765728858925
+Holt-Winters,4,2,111,94.10463554294218
+Holt-Winters,4,3,77,111.03250824682428
+Holt-Winters,4,4,54,91.03248335630252
+Holt-Winters,4,5,118,83.70236678459344
+Holt-Winters,4,6,51,85.24585477601313
+Holt-Winters,4,7,88,88.3675726661325
+Holt-Winters,5,1,111,85.4647553192492
+Holt-Winters,5,2,75,98.32565010288621
+Holt-Winters,5,3,82,93.38654267786316
+Holt-Winters,5,4,57,85.24062454459566
+Holt-Winters,5,5,115,87.19841859894754
+Holt-Winters,5,6,98,73.92968524232502
+Holt-Winters,5,7,56,85.78950838375894
+Holt-Winters,6,1,69,86.014300330776
+Holt-Winters,6,2,200,94.9715044913894
+Holt-Winters,6,3,42,91.72233024506791
+Holt-Winters,6,4,64,82.17780294451465
+Holt-Winters,6,5,75,87.99917418765786
+Holt-Winters,6,6,117,74.55556978569207
+Holt-Winters,6,7,59,84.6678051741047
+Holt-Winters,7,1,110,86.50417551826713
+Holt-Winters,7,2,140,108.29615262973351
+Holt-Winters,7,3,132,85.07356309945253
+Holt-Winters,7,4,82,81.0163840293026
+Holt-Winters,7,5,62,90.85107624069587
+Holt-Winters,7,6,67,79.40846772079557
+Holt-Winters,7,7,52,84.21165825631395
+Holt-Winters,8,1,38,88.32842539940815
+Holt-Winters,8,2,54,109.63115886204426
+Holt-Winters,8,3,36,89.25645113526086
+Holt-Winters,8,4,108,80.26187131634647
+Holt-Winters,8,5,72,86.88235369558735
+Holt-Winters,8,6,114,77.62442948843382
+Holt-Winters,8,7,60,81.60435536126721
+Holt-Winters,9,1,155,77.02549336391021
+Holt-Winters,9,2,112,96.73557897278786
+Holt-Winters,9,3,75,80.01396265876132
+Holt-Winters,9,4,40,76.90211495933127
+Holt-Winters,9,5,168,78.8528874353123
+Holt-Winters,9,6,101,74.04081092150822
+Holt-Winters,9,7,156,71.98241432179046
+Holt-Winters,10,1,108,107.31225825222401
+Holt-Winters,10,2,119,121.82660087504655
+Holt-Winters,10,3,36,102.64813721737188
+Holt-Winters,10,4,137,97.60122743609656
+Holt-Winters,10,5,70,110.02261953781948
+Holt-Winters,10,6,175,99.48094618744487
+Holt-Winters,10,7,231,95.12785140153791
+Holt-Winters,11,1,77,127.9966537006314
+Holt-Winters,11,2,181,142.66581236160476
+Holt-Winters,11,3,61,116.39306277166081
+Holt-Winters,11,4,78,121.69230965649614
+Holt-Winters,11,5,144,127.96940051296227
+Holt-Winters,11,6,69,127.11904716995275
+Holt-Winters,11,7,60,121.03804300938032
+Holt-Winters,12,1,56,102.8113565771971
+Holt-Winters,12,2,213,126.09767176609421
+Holt-Winters,12,3,5,90.13353200186026
+Holt-Winters,12,4,160,97.30024046049236
+Holt-Winters,12,5,108,109.43184123928708
+Holt-Winters,12,6,93,102.06121522025387
+Holt-Winters,12,7,63,111.19485038410842
+Holt-Winters,13,1,92,94.46850807399949
+Holt-Winters,13,2,111,134.3621407124452
+Holt-Winters,13,3,76,74.27670436057231
+Holt-Winters,13,4,80,100.32124771038002
+Holt-Winters,13,5,77,106.69264164024175
+Holt-Winters,13,6,70,98.51408662605147
+Holt-Winters,13,7,133,103.9554488382568
+Holt-Winters,14,1,90,90.42147628462374
+Holt-Winters,14,2,90,127.18614489011995
+Holt-Winters,14,3,69,71.77160628784952
+Holt-Winters,14,4,65,94.34070205526085
+Holt-Winters,14,5,116,99.85294139164854
+Holt-Winters,14,6,75,92.07359159599382
+Holt-Winters,14,7,80,95.09520325171867
+Holt-Winters,15,1,73,84.06204098719104
+Holt-Winters,15,2,65,116.57050563040632
+Holt-Winters,15,3,81,66.16956292819094
+Holt-Winters,15,4,65,85.36961207137017
+Holt-Winters,15,5,109,95.47628383376149
+Holt-Winters,15,6,59,84.25792320637757
+Holt-Winters,15,7,73,92.67437146343791
+Holt-Winters,16,1,131,76.08442337935283
+Holt-Winters,16,2,45,104.25182010582606
+Holt-Winters,16,3,120,61.963774631573585
+Holt-Winters,16,4,70,76.84269333576671
+Holt-Winters,16,5,100,89.89817624108787
+Holt-Winters,16,6,67,75.10071733836439
+Holt-Winters,16,7,75,83.96940309314812
+Holt-Winters,17,1,57,83.60376421316327
+Holt-Winters,17,2,54,100.78103135514598
+Holt-Winters,17,3,124,71.10326435573005
+Holt-Winters,17,4,57,78.63052594683413
+Holt-Winters,17,5,114,92.27694085199153
+Holt-Winters,17,6,76,76.66439108097379
+Holt-Winters,17,7,93,85.14078495262976
+Holt-Winters,18,1,69,82.15565758952556
+Holt-Winters,18,2,78,97.89431290700925
+Holt-Winters,18,3,88,77.03122514567157
+Holt-Winters,18,4,78,77.79845490313132
+Holt-Winters,18,5,123,94.69183388954754
+Holt-Winters,18,6,78,77.40743029176686
+Holt-Winters,18,7,60,84.85948009700506
+Holt-Winters,19,1,69,80.08074461639222
+Holt-Winters,19,2,104,95.3764619857044
+Holt-Winters,19,3,115,77.0955181358737
+Holt-Winters,19,4,82,76.8932962711197
+Holt-Winters,19,5,88,96.21577767040601
+Holt-Winters,19,6,77,76.3181110977484
+Holt-Winters,19,7,93,84.64349494002501
+Holt-Winters,20,1,116,82.85059634745491
+Holt-Winters,20,2,116,99.80011112906946
+Holt-Winters,20,3,103,83.80592297870972
+Holt-Winters,20,4,102,80.69196011254625
+Holt-Winters,20,5,107,98.62292416510095
+Holt-Winters,20,6,71,79.7821895370167
+Holt-Winters,20,7,97,86.04173559229129
+Holt-Winters,21,1,83,92.34770970538331
+Holt-Winters,21,2,100,107.69674995493719
+Holt-Winters,21,3,61,91.84240975996474
+Holt-Winters,21,4,99,88.80262712817135
+Holt-Winters,21,5,93,105.45205128603583
+Holt-Winters,21,6,82,85.3790491781979
+Holt-Winters,21,7,84,93.54564930545902
+Holt-Winters,22,1,90,87.38661214639819
+Holt-Winters,22,2,98,102.93468724937526
+Holt-Winters,22,3,78,85.34379827338977
+Holt-Winters,22,4,84,85.71592225328533
+Holt-Winters,22,5,121,100.42408577261006
+Holt-Winters,22,6,67,81.19775797551534
+Holt-Winters,22,7,60,89.61380212802945
+ARIMA,1,1,71,96.97905859616061
+ARIMA,1,2,107,90.35710030948468
+ARIMA,1,3,96,89.85319480302756
+ARIMA,1,4,71,89.81484953589583
+ARIMA,1,5,98,89.81193160883895
+ARIMA,1,6,93,89.81170956583479
+ARIMA,1,7,71,89.81169266921786
+ARIMA,2,1,68,85.97550365591835
+ARIMA,2,2,116,86.89316397129568
+ARIMA,2,3,80,86.9493958332595
+ARIMA,2,4,119,86.9528415770134
+ARIMA,2,5,92,86.95305272332091
+ARIMA,2,6,90,86.95306566182312
+ARIMA,2,7,99,86.95306645466123
+ARIMA,3,1,80,92.83043949995017
+ARIMA,3,2,126,92.48062823102906
+ARIMA,3,3,92,92.46079409148813
+ARIMA,3,4,101,92.45966950481446
+ARIMA,3,5,86,92.45960574126252
+ARIMA,3,6,65,92.45960212589819
+ARIMA,3,7,86,92.45960192090868
+ARIMA,4,1,96,89.8196747166347
+ARIMA,4,2,111,90.03263881712357
+ARIMA,4,3,77,90.04451252665687
+ARIMA,4,4,54,90.0451745395396
+ARIMA,4,5,118,90.04521144974493
+ARIMA,4,6,51,90.04521350765542
+ARIMA,4,7,88,90.04521362239322
+ARIMA,5,1,111,85.93961849252084
+ARIMA,5,2,75,85.84409142637203
+ARIMA,5,3,82,85.83966243090013
+ARIMA,5,4,57,85.83945708594733
+ARIMA,5,5,115,85.83944756537998
+ARIMA,5,6,98,85.83944712397053
+ARIMA,5,7,56,85.83944710350512
+ARIMA,6,1,69,82.82818424073622
+ARIMA,6,2,200,83.98449524941705
+ARIMA,6,3,42,84.03433295504777
+ARIMA,6,4,64,84.03648099038072
+ARIMA,6,5,75,84.03657357200609
+ARIMA,6,6,117,84.03657756233028
+ARIMA,6,7,59,84.03657773431567
+ARIMA,7,1,110,85.03933576676366
+ARIMA,7,2,140,85.51145582292078
+ARIMA,7,3,132,85.52001584724023
+ARIMA,7,4,82,85.52017104932366
+ARIMA,7,5,62,85.52017386329776
+ARIMA,7,6,67,85.52017391431801
+ARIMA,7,7,52,85.52017391524306
+ARIMA,8,1,38,83.94405612930808
+ARIMA,8,2,54,85.12522567803782
+ARIMA,8,3,36,85.16890082990955
+ARIMA,8,4,108,85.17051577070536
+ARIMA,8,5,72,85.1705754850661
+ARIMA,8,6,114,85.17057769307576
+ARIMA,8,7,60,85.17057777471955
+ARIMA,9,1,155,76.96394255583735
+ARIMA,9,2,112,77.64832990283595
+ARIMA,9,3,75,77.67594058585908
+ARIMA,9,4,40,77.67705450156829
+ARIMA,9,5,168,77.67709944099286
+ARIMA,9,6,101,77.67710125401324
+ARIMA,9,7,156,77.67710132715709
+ARIMA,10,1,108,103.11847794082726
+ARIMA,10,2,119,101.48937483962226
+ARIMA,10,3,36,101.43918761332824
+ARIMA,10,4,137,101.43764151248219
+ARIMA,10,5,70,101.4375938822782
+ARIMA,10,6,175,101.43759241495067
+ARIMA,10,7,231,101.43759236974721
+ARIMA,11,1,77,126.64950023577646
+ARIMA,11,2,181,123.52983243364686
+ARIMA,11,3,61,123.43656668774594
+ARIMA,11,4,78,123.43377841030419
+ARIMA,11,5,144,123.4336950518212
+ARIMA,11,6,69,123.4336925597318
+ARIMA,11,7,60,123.43369248522816
+ARIMA,12,1,56,103.65094003437365
+ARIMA,12,2,213,103.98651761646596
+ARIMA,12,3,5,103.98909745354425
+ARIMA,12,4,160,103.98911728669076
+ARIMA,12,5,108,103.98911743916305
+ARIMA,12,6,93,103.98911744033522
+ARIMA,12,7,63,103.98911744034423
+ARIMA,13,1,92,101.86151322544035
+ARIMA,13,2,111,100.01068505651924
+ARIMA,13,3,76,100.09883306277416
+ARIMA,13,4,80,100.09463490373531
+ARIMA,13,5,77,100.0948348463099
+ARIMA,13,6,70,100.09482532379472
+ARIMA,13,7,133,100.09482577731642
+ARIMA,14,1,90,93.3997463778005
+ARIMA,14,2,90,95.27808251889242
+ARIMA,14,3,69,95.18898847690491
+ARIMA,14,4,65,95.19321442355206
+ARIMA,14,5,116,95.193013976646
+ARIMA,14,6,75,95.19302348432925
+ARIMA,14,7,80,95.19302303335675
+ARIMA,15,1,73,88.55151629735002
+ARIMA,15,2,65,88.12658695651815
+ARIMA,15,3,81,88.14770191887351
+ARIMA,15,4,65,88.14665270529274
+ARIMA,15,5,109,88.1467048412672
+ARIMA,15,6,59,88.14670225060321
+ARIMA,15,7,73,88.14670237933467
+ARIMA,16,1,131,80.5208467805672
+ARIMA,16,2,45,80.1211674791013
+ARIMA,16,3,120,80.14240757994115
+ARIMA,16,4,70,80.14127882025299
+ARIMA,16,5,100,80.14133880577016
+ARIMA,16,6,67,80.14133561796827
+ARIMA,16,7,75,80.14133578737717
+ARIMA,17,1,57,83.1761936052495
+ARIMA,17,2,54,82.65211944914627
+ARIMA,17,3,124,82.68571132995973
+ARIMA,17,4,57,82.6835581719697
+ARIMA,17,5,114,82.68369618416841
+ARIMA,17,6,76,82.68368733792161
+ARIMA,17,7,93,82.68368790494455
+ARIMA,18,1,69,83.1195766255212
+ARIMA,18,2,78,83.80781527070714
+ARIMA,18,3,88,83.75987477111774
+ARIMA,18,4,78,83.7632141527653
+ARIMA,18,5,123,83.7629815421358
+ARIMA,18,6,78,83.7629977450472
+ARIMA,18,7,60,83.7629966164043
+ARIMA,19,1,69,84.36262608050374
+ARIMA,19,2,104,82.66640045450274
+ARIMA,19,3,115,82.7844986170241
+ARIMA,19,4,82,82.77627614014536
+ARIMA,19,5,88,82.77684862260044
+ARIMA,19,6,77,82.77680876403151
+ARIMA,19,7,93,82.77681153914803
+ARIMA,20,1,116,86.25510872228048
+ARIMA,20,2,116,86.70900344411871
+ARIMA,20,3,103,86.67845878297744
+ARIMA,20,4,102,86.68051427355564
+ARIMA,20,5,107,86.68037595015119
+ARIMA,20,6,71,86.68038525856856
+ARIMA,20,7,97,86.68038463216239
+ARIMA,21,1,83,94.06075952716144
+ARIMA,21,2,100,94.25310209876487
+ARIMA,21,3,61,94.24051528758257
+ARIMA,21,4,99,94.2413389628325
+ARIMA,21,5,93,94.24128506189544
+ARIMA,21,6,82,94.24128858914847
+ARIMA,21,7,84,94.24128835832661
+ARIMA,22,1,90,89.5769097277732
+ARIMA,22,2,98,89.20792070024754
+ARIMA,22,3,78,89.2323343825699
+ARIMA,22,4,84,89.23071908281821
+ARIMA,22,5,121,89.23082595703953
+ARIMA,22,6,67,89.23081888584474
+ARIMA,22,7,60,89.23081935370121
